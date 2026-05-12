@@ -1,7 +1,7 @@
 -- ============================================
 --   SALES ANALYSIS PROJECT - FULL 10 STEPS
 --   Author: Sultan Ali
---   Tool: MySQL / MariaDB
+--   Tool: MySQL 
 -- ============================================
 
 -- STEP 1: CREATE DATABASE & TABLES
